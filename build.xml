@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Module>
+	
+	<GlobalSolutionName>ThirdParty</GlobalSolutionName>
+	<GlobalNamespace>potato</GlobalNamespace>
+
+	<HeaderLibrary>
+		<Name>thirdparty_rectpack</Name>
+		<SourceRoot>.</SourceRoot>
+		<ExportedIncludeDirectory>src</ExportedIncludeDirectory>
+		<ThirdParty>true</ThirdParty>
+	</HeaderLibrary>
+
+</Module>
