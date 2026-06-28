@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <Build>
 
-	<Module name="ThirdPartyRectPack" type="thirdparty">
+	<Module name="ThirdParty" type="thirdparty">
 
 		<HeaderLibrary>
-			<Name>thirdparty_rectpack</Name>
+			<Name>ThirdParty.RectPack</Name>
 			<SourceRoot>.</SourceRoot>
 			<ExportedIncludeDirectory>src</ExportedIncludeDirectory>
 			<ThirdParty>true</ThirdParty>
